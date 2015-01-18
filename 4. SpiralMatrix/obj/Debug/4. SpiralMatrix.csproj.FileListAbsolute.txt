@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\4. SpiralMatrix\bin\Debug\_4.SpiralMatrix.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\4. SpiralMatrix\bin\Debug\_4.SpiralMatrix.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\4. SpiralMatrix\bin\Debug\_4.SpiralMatrix.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\4. SpiralMatrix\obj\Debug\_4.SpiralMatrix.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\4. SpiralMatrix\obj\Debug\_4.SpiralMatrix.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\4. SpiralMatrix\obj\Debug\4. SpiralMatrix.csprojResolveAssemblyReference.cache

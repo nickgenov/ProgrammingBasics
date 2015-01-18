@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_A-nacci\bin\Debug\_2.TELERIK_A_nacci.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_A-nacci\bin\Debug\_2.TELERIK_A_nacci.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_A-nacci\bin\Debug\_2.TELERIK_A_nacci.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_A-nacci\obj\Debug\_2.TELERIK_A_nacci.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_A-nacci\obj\Debug\_2.TELERIK_A_nacci.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_A-nacci\obj\Debug\2. TELERIK_A-nacci.csprojResolveAssemblyReference.cache

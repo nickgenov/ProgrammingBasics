@@ -1,0 +1,5 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK_NextDate\bin\Debug\_1.TELERIK_NextDate.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK_NextDate\bin\Debug\_1.TELERIK_NextDate.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK_NextDate\bin\Debug\_1.TELERIK_NextDate.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK_NextDate\obj\Debug\_1.TELERIK_NextDate.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK_NextDate\obj\Debug\_1.TELERIK_NextDate.pdb

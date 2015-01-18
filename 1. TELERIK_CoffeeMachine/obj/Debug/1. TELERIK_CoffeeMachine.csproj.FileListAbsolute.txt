@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK_CoffeeMachine\bin\Debug\_1.TELERIK_CoffeeMachine.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK_CoffeeMachine\bin\Debug\_1.TELERIK_CoffeeMachine.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK_CoffeeMachine\bin\Debug\_1.TELERIK_CoffeeMachine.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK_CoffeeMachine\obj\Debug\1. TELERIK_CoffeeMachine.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK_CoffeeMachine\obj\Debug\_1.TELERIK_CoffeeMachine.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK_CoffeeMachine\obj\Debug\_1.TELERIK_CoffeeMachine.pdb

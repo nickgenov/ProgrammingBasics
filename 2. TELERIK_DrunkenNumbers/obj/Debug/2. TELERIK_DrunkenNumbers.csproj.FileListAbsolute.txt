@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_DrunkenNumbers\bin\Debug\_2.TELERIK_DrunkenNumbers.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_DrunkenNumbers\bin\Debug\_2.TELERIK_DrunkenNumbers.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_DrunkenNumbers\bin\Debug\_2.TELERIK_DrunkenNumbers.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_DrunkenNumbers\obj\Debug\_2.TELERIK_DrunkenNumbers.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_DrunkenNumbers\obj\Debug\_2.TELERIK_DrunkenNumbers.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_DrunkenNumbers\obj\Debug\2. TELERIK_DrunkenNumbers.csprojResolveAssemblyReference.cache

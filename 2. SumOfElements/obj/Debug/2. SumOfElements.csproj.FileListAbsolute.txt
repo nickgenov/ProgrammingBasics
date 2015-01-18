@@ -1,0 +1,5 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. SumOfElements\bin\Debug\_2.SumOfElements.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. SumOfElements\bin\Debug\_2.SumOfElements.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. SumOfElements\bin\Debug\_2.SumOfElements.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. SumOfElements\obj\Debug\_2.SumOfElements.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. SumOfElements\obj\Debug\_2.SumOfElements.pdb

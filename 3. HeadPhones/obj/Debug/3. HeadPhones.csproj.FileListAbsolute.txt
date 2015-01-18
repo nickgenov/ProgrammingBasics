@@ -1,0 +1,5 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\3. HeadPhones\bin\Debug\_3.HeadPhones.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\3. HeadPhones\bin\Debug\_3.HeadPhones.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\3. HeadPhones\bin\Debug\_3.HeadPhones.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\3. HeadPhones\obj\Debug\_3.HeadPhones.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\3. HeadPhones\obj\Debug\_3.HeadPhones.pdb

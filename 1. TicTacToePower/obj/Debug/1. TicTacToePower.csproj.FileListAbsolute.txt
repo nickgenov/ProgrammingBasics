@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TicTacToePower\bin\Debug\_1.TicTacToePower.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TicTacToePower\bin\Debug\_1.TicTacToePower.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TicTacToePower\bin\Debug\_1.TicTacToePower.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TicTacToePower\obj\Debug\_1.TicTacToePower.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TicTacToePower\obj\Debug\_1.TicTacToePower.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TicTacToePower\obj\Debug\1. TicTacToePower.csprojResolveAssemblyReference.cache

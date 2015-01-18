@@ -1,0 +1,5 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. CartesianCoordinateSystem\bin\Debug\_1.CartesianCoordinateSystem.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. CartesianCoordinateSystem\bin\Debug\_1.CartesianCoordinateSystem.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. CartesianCoordinateSystem\bin\Debug\_1.CartesianCoordinateSystem.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. CartesianCoordinateSystem\obj\Debug\_1.CartesianCoordinateSystem.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. CartesianCoordinateSystem\obj\Debug\_1.CartesianCoordinateSystem.pdb

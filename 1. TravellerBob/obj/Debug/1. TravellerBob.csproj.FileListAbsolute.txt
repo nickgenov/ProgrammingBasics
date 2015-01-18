@@ -1,0 +1,5 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\1. TravellerBob\bin\Debug\_1.TravellerBob.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\1. TravellerBob\bin\Debug\_1.TravellerBob.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\1. TravellerBob\bin\Debug\_1.TravellerBob.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\1. TravellerBob\obj\Debug\_1.TravellerBob.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\1. TravellerBob\obj\Debug\_1.TravellerBob.pdb

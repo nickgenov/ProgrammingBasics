@@ -1,0 +1,5 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_AngryFemaleGPS\bin\Debug\_2.TELERIK_AngryFemaleGPS.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_AngryFemaleGPS\bin\Debug\_2.TELERIK_AngryFemaleGPS.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_AngryFemaleGPS\bin\Debug\_2.TELERIK_AngryFemaleGPS.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_AngryFemaleGPS\obj\Debug\_2.TELERIK_AngryFemaleGPS.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_AngryFemaleGPS\obj\Debug\_2.TELERIK_AngryFemaleGPS.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\3. LAB_ByteParty\bin\Debug\_3.LAB_ByteParty.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\3. LAB_ByteParty\bin\Debug\_3.LAB_ByteParty.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\3. LAB_ByteParty\bin\Debug\_3.LAB_ByteParty.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\3. LAB_ByteParty\obj\Debug\_3.LAB_ByteParty.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\3. LAB_ByteParty\obj\Debug\_3.LAB_ByteParty.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\3. LAB_ByteParty\obj\Debug\3. LAB_ByteParty.csprojResolveAssemblyReference.cache

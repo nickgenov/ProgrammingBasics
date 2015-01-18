@@ -1,0 +1,2 @@
+C:\Users\Nick\Desktop\Exams done twice\PracticeExam\4. MorseCodeNumbers\bin\Debug\_4.MorseCodeNumbers.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. MorseCodeNumbers\bin\Debug\_4.MorseCodeNumbers.exe.config

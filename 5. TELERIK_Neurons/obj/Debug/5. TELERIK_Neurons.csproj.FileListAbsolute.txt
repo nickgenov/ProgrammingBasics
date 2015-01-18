@@ -1,0 +1,11 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. TELERIK_Neurons\bin\Debug\_5.TELERIK_Neurons.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. TELERIK_Neurons\bin\Debug\_5.TELERIK_Neurons.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. TELERIK_Neurons\bin\Debug\_5.TELERIK_Neurons.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. TELERIK_Neurons\obj\Debug\_5.TELERIK_Neurons.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. TELERIK_Neurons\obj\Debug\_5.TELERIK_Neurons.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\5. TELERIK_Neurons\bin\Debug\_5.TELERIK_Neurons.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\5. TELERIK_Neurons\obj\Debug\_5.TELERIK_Neurons.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\5. TELERIK_Neurons\obj\Debug\_5.TELERIK_Neurons.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\5. TELERIK_Neurons\bin\Debug\_5.TELERIK_Neurons.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\5. TELERIK_Neurons\bin\Debug\_5.TELERIK_Neurons.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\5. TELERIK_Neurons\obj\Debug\5. TELERIK_Neurons.csprojResolveAssemblyReference.cache

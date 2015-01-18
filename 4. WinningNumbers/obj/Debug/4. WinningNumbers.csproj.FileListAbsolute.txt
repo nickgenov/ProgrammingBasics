@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. WinningNumbers\bin\Debug\_4.WinningNumbers.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. WinningNumbers\bin\Debug\_4.WinningNumbers.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. WinningNumbers\bin\Debug\_4.WinningNumbers.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. WinningNumbers\obj\Debug\4. WinningNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. WinningNumbers\obj\Debug\_4.WinningNumbers.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. WinningNumbers\obj\Debug\_4.WinningNumbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. OddOrEvenCounter\bin\Debug\_2.OddOrEvenCounter.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. OddOrEvenCounter\bin\Debug\_2.OddOrEvenCounter.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. OddOrEvenCounter\bin\Debug\_2.OddOrEvenCounter.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. OddOrEvenCounter\obj\Debug\_2.OddOrEvenCounter.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. OddOrEvenCounter\obj\Debug\_2.OddOrEvenCounter.pdb

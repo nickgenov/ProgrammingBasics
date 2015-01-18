@@ -1,0 +1,5 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. Cinema\bin\Debug\_1.Cinema.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. Cinema\bin\Debug\_1.Cinema.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. Cinema\bin\Debug\_1.Cinema.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. Cinema\obj\Debug\_1.Cinema.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. Cinema\obj\Debug\_1.Cinema.pdb

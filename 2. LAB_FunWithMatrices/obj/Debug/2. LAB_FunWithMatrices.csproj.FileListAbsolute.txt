@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\2. LAB_FunWithMatrices\bin\Debug\_2.LAB_FunWithMatrices.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\2. LAB_FunWithMatrices\bin\Debug\_2.LAB_FunWithMatrices.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\2. LAB_FunWithMatrices\bin\Debug\_2.LAB_FunWithMatrices.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\2. LAB_FunWithMatrices\obj\Debug\_2.LAB_FunWithMatrices.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\2. LAB_FunWithMatrices\obj\Debug\_2.LAB_FunWithMatrices.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\2. LAB_FunWithMatrices\obj\Debug\2. LAB_FunWithMatrices.csprojResolveAssemblyReference.cache

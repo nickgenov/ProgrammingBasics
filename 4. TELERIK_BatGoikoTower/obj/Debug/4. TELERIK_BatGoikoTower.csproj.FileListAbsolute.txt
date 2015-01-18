@@ -1,0 +1,9 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. TELERIK_BatGoikoTower\bin\Debug\_4.TELERIK_BatGoikoTower.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. TELERIK_BatGoikoTower\bin\Debug\_4.TELERIK_BatGoikoTower.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. TELERIK_BatGoikoTower\bin\Debug\_4.TELERIK_BatGoikoTower.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. TELERIK_BatGoikoTower\obj\Debug\4. TELERIK_BatGoikoTower.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. TELERIK_BatGoikoTower\obj\Debug\_4.TELERIK_BatGoikoTower.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. TELERIK_BatGoikoTower\obj\Debug\_4.TELERIK_BatGoikoTower.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\4. TELERIK_BatGoikoTower\bin\Debug\_4.TELERIK_BatGoikoTower.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\4. TELERIK_BatGoikoTower\obj\Debug\_4.TELERIK_BatGoikoTower.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\4. TELERIK_BatGoikoTower\obj\Debug\_4.TELERIK_BatGoikoTower.pdb

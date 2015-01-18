@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. Disk\bin\Debug\_3.Disk.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. Disk\bin\Debug\_3.Disk.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. Disk\bin\Debug\_3.Disk.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. Disk\obj\Debug\_3.Disk.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. Disk\obj\Debug\_3.Disk.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. Disk\obj\Debug\3. Disk.csprojResolveAssemblyReference.cache

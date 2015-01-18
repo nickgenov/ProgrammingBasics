@@ -1,0 +1,5 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. Plane\bin\Debug\_3.Plane.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. Plane\bin\Debug\_3.Plane.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. Plane\bin\Debug\_3.Plane.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. Plane\obj\Debug\_3.Plane.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. Plane\obj\Debug\_3.Plane.pdb

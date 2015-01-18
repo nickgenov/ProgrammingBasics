@@ -1,0 +1,5 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\4. LAB_Tetris\bin\Debug\_4.LAB_Tetris.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\4. LAB_Tetris\bin\Debug\_4.LAB_Tetris.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\4. LAB_Tetris\bin\Debug\_4.LAB_Tetris.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\4. LAB_Tetris\obj\Debug\_4.LAB_Tetris.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\4. LAB_Tetris\obj\Debug\_4.LAB_Tetris.pdb

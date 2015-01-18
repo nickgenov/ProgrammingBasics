@@ -1,0 +1,12 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. TELERIK_Poker\bin\Debug\_3.TELERIK_Poker.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. TELERIK_Poker\bin\Debug\_3.TELERIK_Poker.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. TELERIK_Poker\bin\Debug\_3.TELERIK_Poker.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. TELERIK_Poker\obj\Debug\_3.TELERIK_Poker.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. TELERIK_Poker\obj\Debug\_3.TELERIK_Poker.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. TELERIK_Poker\obj\Debug\3. TELERIK_Poker.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\3. TELERIK_Poker\bin\Debug\_3.TELERIK_Poker.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\3. TELERIK_Poker\obj\Debug\_3.TELERIK_Poker.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\3. TELERIK_Poker\obj\Debug\_3.TELERIK_Poker.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\3. TELERIK_Poker\bin\Debug\_3.TELERIK_Poker.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\3. TELERIK_Poker\bin\Debug\_3.TELERIK_Poker.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\3. TELERIK_Poker\obj\Debug\3. TELERIK_Poker.csprojResolveAssemblyReference.cache

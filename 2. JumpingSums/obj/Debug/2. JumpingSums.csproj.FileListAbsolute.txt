@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. JumpingSums\bin\Debug\_2.JumpingSums.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. JumpingSums\bin\Debug\_2.JumpingSums.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. JumpingSums\bin\Debug\_2.JumpingSums.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. JumpingSums\obj\Debug\_2.JumpingSums.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. JumpingSums\obj\Debug\_2.JumpingSums.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. JumpingSums\obj\Debug\2. JumpingSums.csprojResolveAssemblyReference.cache

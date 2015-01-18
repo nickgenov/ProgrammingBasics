@@ -1,0 +1,5 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\1. PiggyBank\bin\Debug\_1.PiggyBank.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\1. PiggyBank\bin\Debug\_1.PiggyBank.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\1. PiggyBank\bin\Debug\_1.PiggyBank.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\1. PiggyBank\obj\Debug\_1.PiggyBank.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\1. PiggyBank\obj\Debug\_1.PiggyBank.pdb

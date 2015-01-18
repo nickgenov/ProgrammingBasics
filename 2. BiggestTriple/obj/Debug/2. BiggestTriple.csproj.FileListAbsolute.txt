@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. BiggestTriple\bin\Debug\_2.BiggestTriple.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. BiggestTriple\bin\Debug\_2.BiggestTriple.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. BiggestTriple\bin\Debug\_2.BiggestTriple.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. BiggestTriple\obj\Debug\2. BiggestTriple.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. BiggestTriple\obj\Debug\_2.BiggestTriple.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. BiggestTriple\obj\Debug\_2.BiggestTriple.pdb

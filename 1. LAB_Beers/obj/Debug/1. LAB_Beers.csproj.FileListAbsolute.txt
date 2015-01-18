@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\1. LAB_Beers\bin\Debug\_1.LAB_Beers.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\1. LAB_Beers\bin\Debug\_1.LAB_Beers.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\1. LAB_Beers\bin\Debug\_1.LAB_Beers.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\1. LAB_Beers\obj\Debug\1. LAB_Beers.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\1. LAB_Beers\obj\Debug\_1.LAB_Beers.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\1. LAB_Beers\obj\Debug\_1.LAB_Beers.pdb

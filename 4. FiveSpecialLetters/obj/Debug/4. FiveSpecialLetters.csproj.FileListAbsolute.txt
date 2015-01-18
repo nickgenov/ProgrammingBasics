@@ -1,0 +1,9 @@
+C:\Users\Nick\Desktop\Exams done twice\PracticeExam\4. FiveSpecialLetters\bin\Debug\_4.FiveSpecialLetters.exe.config
+C:\Users\Nick\Desktop\Exams done twice\PracticeExam\4. FiveSpecialLetters\bin\Debug\_4.FiveSpecialLetters.exe
+C:\Users\Nick\Desktop\Exams done twice\PracticeExam\4. FiveSpecialLetters\bin\Debug\_4.FiveSpecialLetters.pdb
+C:\Users\Nick\Desktop\Exams done twice\PracticeExam\4. FiveSpecialLetters\obj\Debug\4. FiveSpecialLetters.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\Exams done twice\PracticeExam\4. FiveSpecialLetters\obj\Debug\_4.FiveSpecialLetters.exe
+C:\Users\Nick\Desktop\Exams done twice\PracticeExam\4. FiveSpecialLetters\obj\Debug\_4.FiveSpecialLetters.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. FiveSpecialLetters\bin\Debug\_4.FiveSpecialLetters.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. FiveSpecialLetters\obj\Debug\_4.FiveSpecialLetters.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. FiveSpecialLetters\obj\Debug\_4.FiveSpecialLetters.pdb

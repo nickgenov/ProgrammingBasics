@@ -1,0 +1,5 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. BookOrders\bin\Debug\_2.BookOrders.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. BookOrders\bin\Debug\_2.BookOrders.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. BookOrders\bin\Debug\_2.BookOrders.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. BookOrders\obj\Debug\_2.BookOrders.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. BookOrders\obj\Debug\_2.BookOrders.pdb

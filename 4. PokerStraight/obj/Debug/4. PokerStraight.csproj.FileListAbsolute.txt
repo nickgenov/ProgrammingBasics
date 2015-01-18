@@ -1,0 +1,5 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. PokerStraight\bin\Debug\_4.PokerStraight.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. PokerStraight\bin\Debug\_4.PokerStraight.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. PokerStraight\bin\Debug\_4.PokerStraight.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. PokerStraight\obj\Debug\_4.PokerStraight.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. PokerStraight\obj\Debug\_4.PokerStraight.pdb

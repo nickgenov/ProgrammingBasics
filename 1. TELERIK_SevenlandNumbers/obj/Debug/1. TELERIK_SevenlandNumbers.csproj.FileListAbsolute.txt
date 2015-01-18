@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK_SevenlandNumbers\bin\Debug\_1.TELERIK_SevenlandNumbers.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK_SevenlandNumbers\bin\Debug\_1.TELERIK_SevenlandNumbers.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK_SevenlandNumbers\bin\Debug\_1.TELERIK_SevenlandNumbers.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK_SevenlandNumbers\obj\Debug\1. TELERIK_SevenlandNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK_SevenlandNumbers\obj\Debug\_1.TELERIK_SevenlandNumbers.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK_SevenlandNumbers\obj\Debug\_1.TELERIK_SevenlandNumbers.pdb

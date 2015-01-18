@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\6. LAB_LargestProductOfDigits\bin\Debug\_6.LAB_LargestProductOfDigits.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\6. LAB_LargestProductOfDigits\bin\Debug\_6.LAB_LargestProductOfDigits.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\6. LAB_LargestProductOfDigits\bin\Debug\_6.LAB_LargestProductOfDigits.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\6. LAB_LargestProductOfDigits\obj\Debug\6. LAB_LargestProductOfDigits.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\6. LAB_LargestProductOfDigits\obj\Debug\_6.LAB_LargestProductOfDigits.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\6. LAB_LargestProductOfDigits\obj\Debug\_6.LAB_LargestProductOfDigits.pdb

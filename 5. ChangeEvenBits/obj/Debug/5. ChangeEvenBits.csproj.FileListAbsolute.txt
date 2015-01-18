@@ -1,0 +1,12 @@
+C:\Users\Nick\Desktop\PracticeExam\5. ChangeEvenBits\bin\Debug\_5.ChangeEvenBits.exe.config
+C:\Users\Nick\Desktop\PracticeExam\5. ChangeEvenBits\bin\Debug\_5.ChangeEvenBits.exe
+C:\Users\Nick\Desktop\PracticeExam\5. ChangeEvenBits\bin\Debug\_5.ChangeEvenBits.pdb
+C:\Users\Nick\Desktop\PracticeExam\5. ChangeEvenBits\obj\Debug\_5.ChangeEvenBits.exe
+C:\Users\Nick\Desktop\PracticeExam\5. ChangeEvenBits\obj\Debug\_5.ChangeEvenBits.pdb
+C:\Users\Nick\Desktop\PracticeExam\5. ChangeEvenBits\obj\Debug\5. ChangeEvenBits.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\Exams done twice\PracticeExam\5. ChangeEvenBits\bin\Debug\_5.ChangeEvenBits.exe.config
+C:\Users\Nick\Desktop\Exams done twice\PracticeExam\5. ChangeEvenBits\obj\Debug\_5.ChangeEvenBits.exe
+C:\Users\Nick\Desktop\Exams done twice\PracticeExam\5. ChangeEvenBits\obj\Debug\_5.ChangeEvenBits.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. ChangeEvenBits\bin\Debug\_5.ChangeEvenBits.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. ChangeEvenBits\obj\Debug\_5.ChangeEvenBits.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. ChangeEvenBits\obj\Debug\_5.ChangeEvenBits.pdb

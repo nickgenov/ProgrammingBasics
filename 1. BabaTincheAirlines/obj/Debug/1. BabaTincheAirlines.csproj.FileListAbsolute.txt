@@ -1,0 +1,9 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. BabaTincheAirlines\bin\Debug\_1.BabaTincheAirlines.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. BabaTincheAirlines\bin\Debug\_1.BabaTincheAirlines.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. BabaTincheAirlines\bin\Debug\_1.BabaTincheAirlines.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. BabaTincheAirlines\obj\Debug\1. BabaTincheAirlines.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. BabaTincheAirlines\obj\Debug\_1.BabaTincheAirlines.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. BabaTincheAirlines\obj\Debug\_1.BabaTincheAirlines.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\1. BabaTincheAirlines\bin\Debug\_1.BabaTincheAirlines.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\1. BabaTincheAirlines\obj\Debug\_1.BabaTincheAirlines.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\1. BabaTincheAirlines\obj\Debug\_1.BabaTincheAirlines.pdb

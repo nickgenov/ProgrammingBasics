@@ -1,0 +1,5 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\3. Boat\bin\Debug\_3.Boat.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\3. Boat\bin\Debug\_3.Boat.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\3. Boat\bin\Debug\_3.Boat.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\3. Boat\obj\Debug\_3.Boat.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\3. Boat\obj\Debug\_3.Boat.pdb

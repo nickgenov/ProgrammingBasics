@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. SequenceOfKNumbers\bin\Debug\_2.SequenceOfKNumbers.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. SequenceOfKNumbers\bin\Debug\_2.SequenceOfKNumbers.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. SequenceOfKNumbers\bin\Debug\_2.SequenceOfKNumbers.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. SequenceOfKNumbers\obj\Debug\_2.SequenceOfKNumbers.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. SequenceOfKNumbers\obj\Debug\_2.SequenceOfKNumbers.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. SequenceOfKNumbers\obj\Debug\2. SequenceOfKNumbers.csprojResolveAssemblyReference.cache

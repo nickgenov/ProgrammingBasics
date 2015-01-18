@@ -1,0 +1,5 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. Gambling\bin\Debug\_4.Gambling.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. Gambling\bin\Debug\_4.Gambling.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. Gambling\bin\Debug\_4.Gambling.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. Gambling\obj\Debug\_4.Gambling.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. Gambling\obj\Debug\_4.Gambling.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. CatchTheBits\bin\Debug\_5.CatchTheBits.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. CatchTheBits\bin\Debug\_5.CatchTheBits.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. CatchTheBits\bin\Debug\_5.CatchTheBits.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. CatchTheBits\obj\Debug\5. CatchTheBits.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. CatchTheBits\obj\Debug\_5.CatchTheBits.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. CatchTheBits\obj\Debug\_5.CatchTheBits.pdb

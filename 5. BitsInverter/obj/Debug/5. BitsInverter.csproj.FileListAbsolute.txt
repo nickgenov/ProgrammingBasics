@@ -1,0 +1,9 @@
+C:\Users\Nick\Desktop\Exams done twice\PracticeExam\5. BitsInverter\bin\Debug\_5.BitsInverter.exe.config
+C:\Users\Nick\Desktop\Exams done twice\PracticeExam\5. BitsInverter\bin\Debug\_5.BitsInverter.exe
+C:\Users\Nick\Desktop\Exams done twice\PracticeExam\5. BitsInverter\bin\Debug\_5.BitsInverter.pdb
+C:\Users\Nick\Desktop\Exams done twice\PracticeExam\5. BitsInverter\obj\Debug\_5.BitsInverter.exe
+C:\Users\Nick\Desktop\Exams done twice\PracticeExam\5. BitsInverter\obj\Debug\_5.BitsInverter.pdb
+C:\Users\Nick\Desktop\Exams done twice\PracticeExam\5. BitsInverter\obj\Debug\5. BitsInverter.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. BitsInverter\bin\Debug\_5.BitsInverter.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. BitsInverter\obj\Debug\_5.BitsInverter.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. BitsInverter\obj\Debug\_5.BitsInverter.pdb

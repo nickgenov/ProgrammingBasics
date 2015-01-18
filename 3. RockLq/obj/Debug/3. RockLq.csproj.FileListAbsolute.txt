@@ -1,0 +1,5 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. RockLq\bin\Debug\_3.RockLq.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. RockLq\bin\Debug\_3.RockLq.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. RockLq\bin\Debug\_3.RockLq.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. RockLq\obj\Debug\_3.RockLq.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. RockLq\obj\Debug\_3.RockLq.pdb

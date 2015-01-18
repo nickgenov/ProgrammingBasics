@@ -1,0 +1,5 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. BitRoller\bin\Debug\_5.BitRoller.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. BitRoller\bin\Debug\_5.BitRoller.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. BitRoller\bin\Debug\_5.BitRoller.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. BitRoller\obj\Debug\_5.BitRoller.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. BitRoller\obj\Debug\_5.BitRoller.pdb

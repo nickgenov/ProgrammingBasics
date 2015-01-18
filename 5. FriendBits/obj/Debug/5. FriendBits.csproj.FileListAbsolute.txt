@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. FriendBits\bin\Debug\_5.FriendBits.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. FriendBits\bin\Debug\_5.FriendBits.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. FriendBits\bin\Debug\_5.FriendBits.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. FriendBits\obj\Debug\_5.FriendBits.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. FriendBits\obj\Debug\_5.FriendBits.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. FriendBits\obj\Debug\5. FriendBits.csprojResolveAssemblyReference.cache

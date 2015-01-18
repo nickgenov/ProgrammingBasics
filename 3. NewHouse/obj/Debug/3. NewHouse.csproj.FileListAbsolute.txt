@@ -1,0 +1,5 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. NewHouse\bin\Debug\_3.NewHouse.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. NewHouse\bin\Debug\_3.NewHouse.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. NewHouse\bin\Debug\_3.NewHouse.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. NewHouse\obj\Debug\_3.NewHouse.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. NewHouse\obj\Debug\_3.NewHouse.pdb

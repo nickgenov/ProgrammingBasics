@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK_Garden\bin\Debug\_1.TELERIK_Garden.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK_Garden\bin\Debug\_1.TELERIK_Garden.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK_Garden\bin\Debug\_1.TELERIK_Garden.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK_Garden\obj\Debug\1. TELERIK_Garden.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK_Garden\obj\Debug\_1.TELERIK_Garden.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK_Garden\obj\Debug\_1.TELERIK_Garden.pdb

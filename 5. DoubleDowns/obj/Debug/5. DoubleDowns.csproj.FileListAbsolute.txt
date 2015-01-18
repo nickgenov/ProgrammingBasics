@@ -1,0 +1,5 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. DoubleDowns\bin\Debug\_5.DoubleDowns.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. DoubleDowns\bin\Debug\_5.DoubleDowns.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. DoubleDowns\bin\Debug\_5.DoubleDowns.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. DoubleDowns\obj\Debug\_5.DoubleDowns.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. DoubleDowns\obj\Debug\_5.DoubleDowns.pdb

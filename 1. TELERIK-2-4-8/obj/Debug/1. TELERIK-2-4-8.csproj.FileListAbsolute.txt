@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK-2-4-8\bin\Debug\_1.TELERIK_2_4_8.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK-2-4-8\bin\Debug\_1.TELERIK_2_4_8.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK-2-4-8\bin\Debug\_1.TELERIK_2_4_8.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK-2-4-8\obj\Debug\1. TELERIK-2-4-8.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK-2-4-8\obj\Debug\_1.TELERIK_2_4_8.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK-2-4-8\obj\Debug\_1.TELERIK_2_4_8.pdb

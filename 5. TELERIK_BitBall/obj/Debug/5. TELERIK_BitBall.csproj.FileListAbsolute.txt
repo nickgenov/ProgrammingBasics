@@ -1,0 +1,12 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. TELERIK_BitBall\bin\Debug\_5.TELERIK_BitBall.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. TELERIK_BitBall\bin\Debug\_5.TELERIK_BitBall.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. TELERIK_BitBall\bin\Debug\_5.TELERIK_BitBall.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. TELERIK_BitBall\obj\Debug\_5.TELERIK_BitBall.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. TELERIK_BitBall\obj\Debug\_5.TELERIK_BitBall.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. TELERIK_BitBall\obj\Debug\5. TELERIK_BitBall.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\5. TELERIK_BitBall\bin\Debug\_5.TELERIK_BitBall.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\5. TELERIK_BitBall\obj\Debug\_5.TELERIK_BitBall.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\5. TELERIK_BitBall\obj\Debug\_5.TELERIK_BitBall.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\5. TELERIK_BitBall\bin\Debug\_5.TELERIK_BitBall.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\5. TELERIK_BitBall\bin\Debug\_5.TELERIK_BitBall.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\5. TELERIK_BitBall\obj\Debug\5. TELERIK_BitBall.csprojResolveAssemblyReference.cache

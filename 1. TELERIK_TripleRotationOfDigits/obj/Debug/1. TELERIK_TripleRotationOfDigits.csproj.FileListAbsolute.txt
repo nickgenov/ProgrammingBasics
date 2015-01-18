@@ -1,0 +1,5 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK_TripleRotationOfDigits\bin\Debug\_1.TELERIK_TripleRotationOfDigits.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK_TripleRotationOfDigits\bin\Debug\_1.TELERIK_TripleRotationOfDigits.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK_TripleRotationOfDigits\bin\Debug\_1.TELERIK_TripleRotationOfDigits.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK_TripleRotationOfDigits\obj\Debug\_1.TELERIK_TripleRotationOfDigits.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. TELERIK_TripleRotationOfDigits\obj\Debug\_1.TELERIK_TripleRotationOfDigits.pdb

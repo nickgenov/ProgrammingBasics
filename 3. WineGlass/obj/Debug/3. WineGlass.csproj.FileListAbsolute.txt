@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. WineGlass\bin\Debug\_3.WineGlass.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. WineGlass\bin\Debug\_3.WineGlass.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. WineGlass\bin\Debug\_3.WineGlass.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. WineGlass\obj\Debug\3. WineGlass.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. WineGlass\obj\Debug\_3.WineGlass.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. WineGlass\obj\Debug\_3.WineGlass.pdb

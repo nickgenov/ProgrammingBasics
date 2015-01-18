@@ -1,0 +1,5 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. TheExplorer\bin\Debug\_3.TheExplorer.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. TheExplorer\bin\Debug\_3.TheExplorer.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. TheExplorer\bin\Debug\_3.TheExplorer.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. TheExplorer\obj\Debug\_3.TheExplorer.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. TheExplorer\obj\Debug\_3.TheExplorer.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\5. BitLock\bin\Debug\_5.BitLock.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\5. BitLock\bin\Debug\_5.BitLock.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\5. BitLock\bin\Debug\_5.BitLock.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\5. BitLock\obj\Debug\_5.BitLock.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\5. BitLock\obj\Debug\_5.BitLock.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\5. BitLock\obj\Debug\5. BitLock.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_NightmareOnCodeStreet\bin\Debug\_2.TELERIK_NightmareOnCodeStreet.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_NightmareOnCodeStreet\bin\Debug\_2.TELERIK_NightmareOnCodeStreet.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_NightmareOnCodeStreet\bin\Debug\_2.TELERIK_NightmareOnCodeStreet.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_NightmareOnCodeStreet\obj\Debug\_2.TELERIK_NightmareOnCodeStreet.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_NightmareOnCodeStreet\obj\Debug\_2.TELERIK_NightmareOnCodeStreet.pdb

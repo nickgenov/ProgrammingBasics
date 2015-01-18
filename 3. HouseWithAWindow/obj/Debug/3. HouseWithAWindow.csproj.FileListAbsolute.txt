@@ -1,0 +1,11 @@
+C:\Users\Nick\Desktop\PracticeExam\3. HouseWithAWindow\bin\Debug\_3.HouseWithAWindow.exe.config
+C:\Users\Nick\Desktop\PracticeExam\3. HouseWithAWindow\bin\Debug\_3.HouseWithAWindow.exe
+C:\Users\Nick\Desktop\PracticeExam\3. HouseWithAWindow\bin\Debug\_3.HouseWithAWindow.pdb
+C:\Users\Nick\Desktop\PracticeExam\3. HouseWithAWindow\obj\Debug\_3.HouseWithAWindow.exe
+C:\Users\Nick\Desktop\PracticeExam\3. HouseWithAWindow\obj\Debug\_3.HouseWithAWindow.pdb
+C:\Users\Nick\Desktop\Exams done twice\PracticeExam\3. HouseWithAWindow\bin\Debug\_3.HouseWithAWindow.exe.config
+C:\Users\Nick\Desktop\Exams done twice\PracticeExam\3. HouseWithAWindow\obj\Debug\_3.HouseWithAWindow.exe
+C:\Users\Nick\Desktop\Exams done twice\PracticeExam\3. HouseWithAWindow\obj\Debug\_3.HouseWithAWindow.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. HouseWithAWindow\bin\Debug\_3.HouseWithAWindow.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. HouseWithAWindow\obj\Debug\_3.HouseWithAWindow.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. HouseWithAWindow\obj\Debug\_3.HouseWithAWindow.pdb

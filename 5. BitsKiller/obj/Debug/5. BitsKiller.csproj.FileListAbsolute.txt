@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. BitsKiller\bin\Debug\_5.BitsKiller.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. BitsKiller\bin\Debug\_5.BitsKiller.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. BitsKiller\bin\Debug\_5.BitsKiller.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. BitsKiller\obj\Debug\_5.BitsKiller.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. BitsKiller\obj\Debug\_5.BitsKiller.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. BitsKiller\obj\Debug\5. BitsKiller.csprojResolveAssemblyReference.cache

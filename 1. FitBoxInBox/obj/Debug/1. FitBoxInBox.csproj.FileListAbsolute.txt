@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. FitBoxInBox\bin\Debug\_1.FitBoxInBox.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. FitBoxInBox\bin\Debug\_1.FitBoxInBox.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. FitBoxInBox\bin\Debug\_1.FitBoxInBox.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. FitBoxInBox\obj\Debug\_1.FitBoxInBox.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. FitBoxInBox\obj\Debug\_1.FitBoxInBox.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. FitBoxInBox\obj\Debug\1. FitBoxInBox.csprojResolveAssemblyReference.cache

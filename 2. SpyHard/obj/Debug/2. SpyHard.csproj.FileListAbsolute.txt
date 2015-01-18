@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\2. SpyHard\bin\Debug\_2.SpyHard.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\2. SpyHard\bin\Debug\_2.SpyHard.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\2. SpyHard\bin\Debug\_2.SpyHard.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\2. SpyHard\obj\Debug\2. SpyHard.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\2. SpyHard\obj\Debug\_2.SpyHard.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\2. SpyHard\obj\Debug\_2.SpyHard.pdb

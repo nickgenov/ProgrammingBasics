@@ -1,0 +1,9 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. TELERIK_TelerikLogo\bin\Debug\_4.TELERIK_TelerikLogo.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. TELERIK_TelerikLogo\bin\Debug\_4.TELERIK_TelerikLogo.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. TELERIK_TelerikLogo\bin\Debug\_4.TELERIK_TelerikLogo.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. TELERIK_TelerikLogo\obj\Debug\4. TELERIK_TelerikLogo.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. TELERIK_TelerikLogo\obj\Debug\_4.TELERIK_TelerikLogo.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. TELERIK_TelerikLogo\obj\Debug\_4.TELERIK_TelerikLogo.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\4. TELERIK_TelerikLogo\bin\Debug\_4.TELERIK_TelerikLogo.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\4. TELERIK_TelerikLogo\obj\Debug\_4.TELERIK_TelerikLogo.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\4. TELERIK_TelerikLogo\obj\Debug\_4.TELERIK_TelerikLogo.pdb

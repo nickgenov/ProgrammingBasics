@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. BitBuilder\bin\Debug\_5.BitBuilder.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. BitBuilder\bin\Debug\_5.BitBuilder.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. BitBuilder\bin\Debug\_5.BitBuilder.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. BitBuilder\obj\Debug\_5.BitBuilder.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. BitBuilder\obj\Debug\_5.BitBuilder.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. BitBuilder\obj\Debug\5. BitBuilder.csprojResolveAssemblyReference.cache

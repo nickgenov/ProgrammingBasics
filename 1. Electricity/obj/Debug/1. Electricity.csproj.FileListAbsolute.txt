@@ -1,0 +1,12 @@
+C:\Users\Nick\Desktop\PracticeExam\1. Electricity\bin\Debug\_1.Electricity.exe.config
+C:\Users\Nick\Desktop\PracticeExam\1. Electricity\bin\Debug\_1.Electricity.exe
+C:\Users\Nick\Desktop\PracticeExam\1. Electricity\bin\Debug\_1.Electricity.pdb
+C:\Users\Nick\Desktop\PracticeExam\1. Electricity\obj\Debug\_1.Electricity.exe
+C:\Users\Nick\Desktop\PracticeExam\1. Electricity\obj\Debug\_1.Electricity.pdb
+C:\Users\Nick\Desktop\PracticeExam\1. Electricity\obj\Debug\1. Electricity.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\Exams done twice\PracticeExam\1. Electricity\bin\Debug\_1.Electricity.exe.config
+C:\Users\Nick\Desktop\Exams done twice\PracticeExam\1. Electricity\obj\Debug\_1.Electricity.exe
+C:\Users\Nick\Desktop\Exams done twice\PracticeExam\1. Electricity\obj\Debug\_1.Electricity.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. Electricity\bin\Debug\_1.Electricity.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. Electricity\obj\Debug\_1.Electricity.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. Electricity\obj\Debug\_1.Electricity.pdb

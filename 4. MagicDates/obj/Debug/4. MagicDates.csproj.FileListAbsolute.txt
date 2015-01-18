@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. MagicDates\bin\Debug\_4.MagicDates.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. MagicDates\bin\Debug\_4.MagicDates.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. MagicDates\bin\Debug\_4.MagicDates.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. MagicDates\obj\Debug\_4.MagicDates.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. MagicDates\obj\Debug\_4.MagicDates.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. MagicDates\obj\Debug\4. MagicDates.csprojResolveAssemblyReference.cache

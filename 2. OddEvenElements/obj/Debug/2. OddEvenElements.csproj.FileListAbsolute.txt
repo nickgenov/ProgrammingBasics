@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. OddEvenElements\bin\Debug\_2.OddEvenElements.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. OddEvenElements\bin\Debug\_2.OddEvenElements.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. OddEvenElements\bin\Debug\_2.OddEvenElements.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. OddEvenElements\obj\Debug\2. OddEvenElements.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. OddEvenElements\obj\Debug\_2.OddEvenElements.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. OddEvenElements\obj\Debug\_2.OddEvenElements.pdb

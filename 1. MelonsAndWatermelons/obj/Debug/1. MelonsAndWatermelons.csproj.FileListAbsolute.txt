@@ -1,0 +1,9 @@
+C:\Users\Nick\Desktop\Exams done twice\PracticeExam\1. MelonsAndWatermelons\bin\Debug\_1.MelonsAndWatermelons.exe.config
+C:\Users\Nick\Desktop\Exams done twice\PracticeExam\1. MelonsAndWatermelons\bin\Debug\_1.MelonsAndWatermelons.exe
+C:\Users\Nick\Desktop\Exams done twice\PracticeExam\1. MelonsAndWatermelons\bin\Debug\_1.MelonsAndWatermelons.pdb
+C:\Users\Nick\Desktop\Exams done twice\PracticeExam\1. MelonsAndWatermelons\obj\Debug\1. MelonsAndWatermelons.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\Exams done twice\PracticeExam\1. MelonsAndWatermelons\obj\Debug\_1.MelonsAndWatermelons.exe
+C:\Users\Nick\Desktop\Exams done twice\PracticeExam\1. MelonsAndWatermelons\obj\Debug\_1.MelonsAndWatermelons.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. MelonsAndWatermelons\bin\Debug\_1.MelonsAndWatermelons.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. MelonsAndWatermelons\obj\Debug\_1.MelonsAndWatermelons.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. MelonsAndWatermelons\obj\Debug\_1.MelonsAndWatermelons.pdb

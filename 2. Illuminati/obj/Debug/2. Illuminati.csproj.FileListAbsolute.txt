@@ -1,0 +1,5 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. Illuminati\bin\Debug\_2.Illuminati.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. Illuminati\bin\Debug\_2.Illuminati.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. Illuminati\bin\Debug\_2.Illuminati.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. Illuminati\obj\Debug\_2.Illuminati.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. Illuminati\obj\Debug\_2.Illuminati.pdb

@@ -1,0 +1,5 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_QuadronacciRectangle\bin\Debug\_2.TELERIK_QuadronacciRectangle.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_QuadronacciRectangle\bin\Debug\_2.TELERIK_QuadronacciRectangle.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_QuadronacciRectangle\bin\Debug\_2.TELERIK_QuadronacciRectangle.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_QuadronacciRectangle\obj\Debug\_2.TELERIK_QuadronacciRectangle.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_QuadronacciRectangle\obj\Debug\_2.TELERIK_QuadronacciRectangle.pdb

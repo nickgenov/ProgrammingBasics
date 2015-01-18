@@ -1,0 +1,5 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_TribonacciTriangle\bin\Debug\_2.TELERIK_TribonacciTriangle.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_TribonacciTriangle\bin\Debug\_2.TELERIK_TribonacciTriangle.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_TribonacciTriangle\bin\Debug\_2.TELERIK_TribonacciTriangle.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_TribonacciTriangle\obj\Debug\_2.TELERIK_TribonacciTriangle.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\2. TELERIK_TribonacciTriangle\obj\Debug\_2.TELERIK_TribonacciTriangle.pdb

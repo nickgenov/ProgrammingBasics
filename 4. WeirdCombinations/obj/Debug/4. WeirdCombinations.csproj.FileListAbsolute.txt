@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. WeirdCombinations\bin\Debug\_4.WeirdCombinations.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. WeirdCombinations\bin\Debug\_4.WeirdCombinations.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. WeirdCombinations\bin\Debug\_4.WeirdCombinations.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. WeirdCombinations\obj\Debug\_4.WeirdCombinations.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. WeirdCombinations\obj\Debug\_4.WeirdCombinations.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. WeirdCombinations\obj\Debug\4. WeirdCombinations.csprojResolveAssemblyReference.cache

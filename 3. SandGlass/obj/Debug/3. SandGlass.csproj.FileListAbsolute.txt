@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. SandGlass\bin\Debug\_3.SandGlass.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. SandGlass\bin\Debug\_3.SandGlass.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. SandGlass\bin\Debug\_3.SandGlass.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. SandGlass\obj\Debug\3. SandGlass.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. SandGlass\obj\Debug\_3.SandGlass.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\3. SandGlass\obj\Debug\_3.SandGlass.pdb

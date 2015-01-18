@@ -1,0 +1,5 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. ChessQueens\bin\Debug\_4.ChessQueens.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. ChessQueens\bin\Debug\_4.ChessQueens.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. ChessQueens\bin\Debug\_4.ChessQueens.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. ChessQueens\obj\Debug\_4.ChessQueens.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\4. ChessQueens\obj\Debug\_4.ChessQueens.pdb

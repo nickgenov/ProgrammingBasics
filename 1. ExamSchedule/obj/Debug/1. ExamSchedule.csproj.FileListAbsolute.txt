@@ -1,0 +1,5 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. ExamSchedule\bin\Debug\_1.ExamSchedule.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. ExamSchedule\bin\Debug\_1.ExamSchedule.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. ExamSchedule\bin\Debug\_1.ExamSchedule.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. ExamSchedule\obj\Debug\_1.ExamSchedule.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\1. ExamSchedule\obj\Debug\_1.ExamSchedule.pdb

@@ -1,0 +1,12 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. TELERIK_AngryBits\bin\Debug\_5.TELERIK_AngryBits.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. TELERIK_AngryBits\bin\Debug\_5.TELERIK_AngryBits.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. TELERIK_AngryBits\bin\Debug\_5.TELERIK_AngryBits.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. TELERIK_AngryBits\obj\Debug\5. TELERIK_AngryBits.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. TELERIK_AngryBits\obj\Debug\_5.TELERIK_AngryBits.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\ExamsDoneTwice\5. TELERIK_AngryBits\obj\Debug\_5.TELERIK_AngryBits.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\5. TELERIK_AngryBits\bin\Debug\_5.TELERIK_AngryBits.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\5. TELERIK_AngryBits\obj\Debug\_5.TELERIK_AngryBits.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\5. TELERIK_AngryBits\obj\Debug\_5.TELERIK_AngryBits.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\5. TELERIK_AngryBits\bin\Debug\_5.TELERIK_AngryBits.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\5. TELERIK_AngryBits\bin\Debug\_5.TELERIK_AngryBits.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\EXAMS\5. TELERIK_AngryBits\obj\Debug\5. TELERIK_AngryBits.csprojResolveAssemblyReference.cache
